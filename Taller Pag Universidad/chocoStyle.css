@@ -1,0 +1,139 @@
+.backgroundColor{
+	background-color: #DCDCDC;
+}
+.navegacionPrincipal{
+	background-color: #FAFCF9;
+	height: 161px;
+    position: relative;
+    display: block;
+    z-index: 250;
+}
+.logoContainer a.logo img {
+    max-width: 260px;
+    position: absolute;
+    z-index: 260;
+    top:0px;
+    left:167px;
+}
+.programas{
+	position:absolute;
+	z-index: 270;
+	left: 255px;
+	top:-17px;
+}
+.fontForMenu{
+	font-family:'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+.fontForContent{
+    font-family:'Montserrat', sans-serif;
+    font-size: 33px;
+    font-weight: 900;
+}
+.casita{
+	background-image: url(http://www.usergioarboleda.edu.co/wp-content/uploads/ultimatum/imagens/home109-white.png);
+	background-color: #f7c000;
+	background-repeat: no-repeat;
+    background-position: center center;
+    min-width: 20px;
+    background-color: #f7c000;
+    top: 1px;
+    bottom: 0px;
+    height: 55px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    position: absolute;
+    text-indent: -9999px;
+}
+.casitaPadding{
+
+}
+.navbar-nav > li{
+  padding-left:1px;
+  padding-right:1px;
+}
+
+.barraAzul{
+min-height:60px; 
+padding-left: 20px !important;
+padding-right: 20px !important;
+position: absolute;
+top:-16px;
+right:13px;
+z-index: 300;
+color:#00437A;
+
+}
+
+
+
+.barraAzulSearch{
+	padding-bottom: 10px;
+}
+
+.colorAzulCoral{
+    color: rgb(0,195,234);
+}
+.contentPadding{
+    padding-left: 150px;
+    padding-top: 70px;
+}
+
+.labordeCitation{
+    font-weight: 100;
+    min-width: 613px;
+    max-width: 613px;
+    line-height: 23px;
+    color: #616161;
+    font-size: 17px;
+    opacity: 1;
+}
+
+.labordeCitationPadding{
+    padding-left: 300px;
+    padding-bottom: 80px;
+}
+
+.navegacionSecundaria{
+    background-color: #FAFCF9;
+    height: 130px;
+    position: relative;
+    display: block;
+    z-index: 250;
+}
+
+.paddingsito {
+   padding-top: 10px;
+}
+
+.paddingsito2 {
+   padding-top: 30px;
+}
+
+.btn-orange {
+    background-color: orange !important;
+    color: #ffffff;
+}
+
+.btn-lightGreen {
+    background-color: #145214 !important;
+    color: #ffffff;
+}
+
+.btn-violet {
+    background-color: #631EA2 !important;
+    color: #ffffff;
+}
+
+.btn-lightBlue {
+    background-color: #4DA6CF !important;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
